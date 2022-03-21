@@ -313,7 +313,7 @@ table {
   border: none;
 }
 
-.custom.container-fluid {
+.custom.container {
   background: #ddd;
   width: 80%;
   height: 100%;
@@ -357,3 +357,26 @@ table {
 }
 
 /* banner_area end */
+
+.bg-gradian {
+  background-image: linear-gradient(to top, rgba(255, 0, 0, 0.329), rgb(255, 0, 0));
+  padding: 100px 50px;
+  color: #fff;
+}
+
+.bg-gradian h1{
+  text-transform: capitalize;
+  font-size: 24px;
+  border: 1.5px solid #ffff;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 240px;
+  margin-bottom: 50px;
+  
+  
+}
+.bg-gradian .pb{
+  padding-bottom: 340px;
+
+}
