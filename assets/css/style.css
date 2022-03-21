@@ -5,6 +5,7 @@ body {
   padding-left: 7pt;
   padding-right: 7pt;
   font-family: "Helvetica Neue", sans-serif;
+  background: #eee;
 }
 
 p.doctitle {
@@ -314,8 +315,8 @@ table {
 }
 
 .custom.container {
-  background: #ddd;
-  width: 80%;
+  background: rgb(255, 255, 255);
+  width: 90%;
   height: 100%;
 }
 
